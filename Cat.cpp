@@ -6,5 +6,5 @@ Cat::~Cat(){}
 
 void Cat::Voice()
 {
-	printf("”L‚Ì–Â‚«º\nƒjƒƒ`ƒjƒƒ`\n\n");
+	printf("ƒjƒƒ`ƒjƒƒ`\n");
 }

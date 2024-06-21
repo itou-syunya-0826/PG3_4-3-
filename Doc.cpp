@@ -6,5 +6,5 @@ Doc::~Doc(){}
 
 void Doc::Voice()
 {
-	printf("犬の鳴き声\nワン！ワン！\n\n");
+	printf("ワン！ワン！\n");
 }
