@@ -6,7 +6,7 @@ class Animal
 public:
 
 	Animal();
-	~Animal();
+	virtual ~Animal();
 
 	virtual void Voice();
 

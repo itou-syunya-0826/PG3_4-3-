@@ -20,15 +20,6 @@ int main() {
 	}
 
 	for (int i = 0; i < 3; i++) {
-		if (i == 0) {
-			printf("”L‚Ì–Â‚«º\n");
-		}
-		else if (i == 1) {
-			printf("\nŒ¢‚Ì–Â‚«º\n");
-		}
-		else {
-			printf("\nŒÏ‚Ì–Â‚«º\n");
-		}
 		animal[i]->Voice();
 	}
 

@@ -6,7 +6,7 @@ class Fox : public Animal
 public:
 
 	Fox();
-	~Fox();
+	~Fox()override;
 
 	void Voice()override;
 };

@@ -5,7 +5,7 @@ class Doc : public Animal
 {
 public:
 	Doc();
-	~Doc();
+	~Doc()override;
 
 	void Voice() override;
 };
